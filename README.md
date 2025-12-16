@@ -13,11 +13,11 @@ A high-performance text-to-image generation web application built using Stable D
 🛠️ Tech Stack
 
 Python
--PyTorch
--Hugging Face Diffusers
--Stable Diffusion XL Turbo
--Gradio
--Google Colab (GPU)
+PyTorch
+Hugging Face Diffusers
+Stable Diffusion XL Turbo
+Gradio
+Google Colab (GPU)
 
 📌 Use Case
 
